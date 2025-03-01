@@ -4,6 +4,11 @@ This repository contains SQL queries designed to help data analysts and BI profe
 
 ---
 
+# quick-start
+You can use the data warehouse created from this repository: SQL Data Warehouse Project. Alternatively, you can set it up more easily by running the "00_init_database" script in the master database on Microsoft SQL Server. This will initialize the necessary schema and tables for the project.
+
+---
+
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution. This project was created using this tutorial "https://www.youtube.com/watch?v=6cJ5Ji8zSDg&ab_channel=DatawithBaraa" from Data with Baraa as a another step to build my portfolio and get more hands on expereince in data analytics.
