@@ -5,7 +5,7 @@ This repository contains SQL queries designed to help data analysts and BI profe
 ---
 
 # quick-start
-You can use the data warehouse created from this repository: SQL Data Warehouse Project. Alternatively, you can set it up more easily by running the "00_init_database" script in the master database on Microsoft SQL Server. This will initialize the necessary schema and tables for the project.
+You can use the data warehouse created from this repository: (https://github.com/Noreilly95/sql-data-warehouse-project/tree/main). Alternatively, you can set it up more easily by running the "00_init_database" script in the master database on Microsoft SQL Server. This will initialize the necessary schema and tables for the project.
 
 ---
 
